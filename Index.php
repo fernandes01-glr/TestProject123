@@ -11,3 +11,5 @@ echo "Test 2 (Mok)";
 
 
 echo "2243434454565";
+
+echo "Hello world 2";
